@@ -5,8 +5,8 @@
 }
 
 .profile-img{
-    width: 28%;
-    background-color: rgb(2, 47, 82);
+    width: 30%;
+    background-color: rgb(1, 25, 43)
     
 }
 
@@ -16,11 +16,12 @@
     margin: 1rem 1rem 1rem 3rem;
     background-image: url('../../img/profile.jpeg');
     background-size: cover;
-    border-radius: 60rem;
+    border-radius: 64rem;
 }
 
 .profile-text{
     margin: 3rem 1rem 1rem 3rem;
+    color: rgb(1, 25, 43);
     
 }
 
@@ -32,5 +33,5 @@
 }
 
 .profile-line{
-    color:  rgb(2, 47, 82);
+    color: rgb(1, 25, 43);
 }
