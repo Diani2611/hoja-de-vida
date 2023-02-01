@@ -6,9 +6,10 @@ export default function Header() {
             <div className='profile-img'>
                 <div className='profile-image'></div>
             </div>
-            <div className='profile-name'>
-                    <h1>Diana Carolina Gonzalez</h1>
-                    <h2>Productora Multimedia/Frontend web</h2>
+            <div className='profile-text'>
+                    <h1 className='profile-name'>Diana Carolina Gonzalez Gutierrez</h1>
+                    <h2 className='profile-title'>Productora Multimedia/Frontend web</h2>
+                    <hr className='profile-line'></hr>
                 </div>
         </section>
     )

@@ -6,14 +6,32 @@
 
 .profile-img{
     width: 30%;
-    background-color: blue;
+    background-color: rgb(1, 25, 43)
+    
 }
 
 .profile-image{
-    width: 60%;
+    width: 67%;
     height: 40vh;
     margin: 1rem 1rem 1rem 3rem;
     background-image: url('../../img/profile.jpeg');
     background-size: cover;
-    border-radius: 60rem;
+    border-radius: 64rem;
+}
+
+.profile-text{
+    margin: 3rem 1rem 1rem 3rem;
+    color: rgb(1, 25, 43);
+    
+}
+
+.profile-name{
+    font-size: 2.5rem;
+}
+.profile-title{
+    font-size: 2rem;
+}
+
+.profile-line{
+    color: rgb(1, 25, 43);
 }

@@ -2,13 +2,14 @@ import './styles.css'
 
 export default function Body () {
     return (
-        <section>
+        <section className='body-section'>
             <div className='aboutme-description'>
-                <div className='aboutme-text'></div>
                 <h2 className='aboutme-title'>SOBRE MÍ</h2>
+                <div className='aboutme-text'>
                 <span>Productora multimedia.<br></br>   Con conocimientos en marketing y desarrollo frontend usando tecnologías cómo HTML, CSS, Javascript y bases de React.
                 <br></br>Con manejo de Adobe photoshop, illustrator, lightroom y figma. 
                 <br></br> Experiencia en creación de paginas web, manejo de redes sociales y procesos administrativos, manejo de siigo, excel intermedio.</span>
+                </div>
             </div>
             <div className='experience-description'>
                 <div className='experience-text'>
@@ -19,10 +20,8 @@ export default function Body () {
                         <li className='experience-functions__items'>Gestión y diseño de redes sociales</li>
                         <li className='experience-functions__items'>Creación de campañas facebook ads</li>
                         <li className='experience-functions__items'>Creación de contenidos para redes y blog</li>
-                        <li className='experience-functions__items'>Atención al cliente</li>
                         <li className='experience-functions__items'>Manejo de bases de datos</li>
                         <li className='experience-functions__items'>Procesos administrativos, manejo de personal</li>
-                        <li className='experience-functions__items'>Procesos contables</li>
                     </ul>
 
                 </div>
