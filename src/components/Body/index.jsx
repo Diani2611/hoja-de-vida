@@ -14,7 +14,7 @@ export default function Body () {
             <div className='experience-description'>
                 <div className='experience-text'>
                     <h2> EXPERIENCIA LABORAL</h2>
-                    <span>Head Marketing / Administrador</span>
+                    <span>Head Marketing / Administrador</span> <br/>
                     <span>Tuprop S.A.S.. | Mayo 2020 - Octubre 2022</span>
                     <ul className='experience-functions'>
                         <li className='experience-functions__items'>Gestión y diseño de redes sociales</li>
@@ -22,6 +22,12 @@ export default function Body () {
                         <li className='experience-functions__items'>Creación de contenidos para redes y blog</li>
                         <li className='experience-functions__items'>Manejo de bases de datos</li>
                         <li className='experience-functions__items'>Procesos administrativos, manejo de personal</li>
+                    </ul>
+                    <span>Desarrollador frontend freelance </span> <br/>
+                    <span> Grupo ARF S.A.S.| Diciembre 2021 - Junio 2022</span>
+                    <ul className='experience-functions'>
+                        <li className='experience-functions__items'>Desarrollo web</li>
+                        <li className='experience-functions__items'>Creación e integración de animaciones</li>
                     </ul>
 
                 </div>
