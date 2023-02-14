@@ -1,6 +1,6 @@
 .body-section{
     width: 100%;
-    height: 70vh;
+    height: 80vh;
     display: flex;
     
 }
@@ -21,9 +21,17 @@
     margin: 1rem 1rem 1rem 1rem;
 }
 
+.aboutme-line{
+    color: #fff;
+}
+
 .experience-description{
     width: 70%;
     color: rgb(1, 25, 43)
+}
+
+.experiencie-position{
+    font-weight: bold;
 }
 
 .experience-text{
