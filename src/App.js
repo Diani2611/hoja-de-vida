@@ -1,5 +1,6 @@
 import Header from './components/Header';
 import Body from './components/Body';
+import Contact from './components/Contact';
 import './App.css';
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
     <>
     <Header />
     <Body />
+    <Contact />
     </>
   );
 }

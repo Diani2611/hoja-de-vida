@@ -1,0 +1,28 @@
+.contact-section {
+    width: 100%;
+    height: 50vh;
+    display: flex;
+}
+
+
+.information-contact {
+    width: 30%;
+    background-color: rgb(1, 25, 43);
+    color: #fff;
+}
+
+.information-title{
+    margin: 1rem 1rem 1rem 1rem;
+    font-weight: 500;
+}
+
+
+.academic-data{
+    width: 70%;
+    color: rgb(1, 25, 43);
+}
+
+.academic-description{
+    margin: 0rem 0rem 0rem 3rem;
+    
+}
